@@ -1,3 +1,4 @@
+
 import javax.swing.JOptionPane;
 
 public class Badger {
@@ -12,6 +13,7 @@ public class Badger {
 			for (int i2 = 0; i2 < 2; i2++) {
 				System.out.print("Mushroom, ");
 			}
+			System.out.println();
 		}
 
 	}
